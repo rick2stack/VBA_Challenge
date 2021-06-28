@@ -1,4 +1,4 @@
-# VBA_Challenge
+# VBA_Challenge (Module 2)
 ## Overview of Project
 Steve is a financial planner and in order to better help his clients, he wants to be able to quickly analyze stocks. Steve already has a VBA script to quickly analyze stocks but is limited to one stock and one year.  In order to help him meet his goals, we need to refactor Steve's orignal VBA script to analyze multiple stock performances on a yearly basis.  Key metrics that are require are total volume, and % total yearly return. 
 
