@@ -18,8 +18,8 @@ Execution times for both the 2017 and 2018 were similar; The 2017 code ran at 1.
 
 ## Summary: 
 ### Advantages and Disadvantages of Refactoring Code
-Refactoring code has both advantages and disadvantages.  Two (2) main advantages of refactoring code are the fact that you already have most of the variable assigments set, and you skip the anti pattern/kluges stage of coding, the stage where you are building up the skeleton of the code.  
+Refactoring code has both advantages and disadvantages.  Two (2) main advantages of refactoring code are the fact that you already have most of the variable assigments set, and you skip the anti pattern/kluges stage of coding (the stage where you are building up the skeleton of the code)  
 However, the main disadvantage of refactoring code is that you are not familiar with the code as if you had built it up from its inception.  When you are not familiar with the code you must infer the purpose of the code and slowly understand the limits of the code.  
-### Refactoring the original VBA script
-Refractoring of the original VBA script was challanging due to the fact there where missing details on how much of the code was completed.  Luckily notes left on the original VBA script help decipher the overall framework of the code.  The main advantage of refactoring of this specific code was due to is well layout organization of having variable assignment, variable declarations and little to know anti pattern/kluges code. 
+### Refactoring the Original VBA Script
+Refactoring of the original VBA script was challanging due to the fact there where missing details on how much of the code was completed.  Luckily notes left on the original VBA script help decipher the overall framework of the code.  The main advantage of refactoring of this specific code was due to is well layout organization of having variable assignment, variable declarations and little to know anti pattern/kluges code. 
 
